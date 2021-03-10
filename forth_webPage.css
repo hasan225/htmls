@@ -1,0 +1,8 @@
+body{background:rgb(255, 191, 191)}
+.header{color:rgb(30, 255, 0);padding: 15px;font-size:40px;text-align:center;background:#444}
+.nevBar{color:#444;background:#fff;font-weight:15px;text-align:center;padding: 15px;}
+.sideBar{color:rgb(70, 69, 69);background:rgb(192, 191, 191);text-align:left;padding:15px;font-weight:bold;width:605;float:left}
+.footer{color:#444;padding:15px;background:rgb(248, 196, 118);font-weight:bold;text-align:center;}
+.content{color:rgb(47, 9, 136);text-align:left;padding:10px;font-weight:bold;width:605;float:right;background:lightgreen}
+.father{width:1270px;margin:auto;}
+.side_con{overflow:hidden}
